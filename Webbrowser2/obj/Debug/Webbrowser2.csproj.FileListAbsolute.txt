@@ -1,0 +1,47 @@
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\bin\Debug\Webbrowser2.exe.config
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\bin\Debug\Webbrowser2.exe
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\bin\Debug\Webbrowser2.pdb
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.csprojResolveAssemblyReference.cache
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Browser.resources
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Email_Register.resources
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.EmailSender.resources
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Login_Email.resources
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Login.resources
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Properties.Resources.resources
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Register.resources
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.csproj.GenerateResource.Cache
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.exe
+C:\Users\Parth Makadiya\Documents\Visual Studio 2013\Projects\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.pdb
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\bin\Debug\Webbrowser2.exe.config
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.exe
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.pdb
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\bin\Debug\Webbrowser2.exe
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\bin\Debug\Webbrowser2.pdb
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.csprojResolveAssemblyReference.cache
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Browser.resources
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Email_Register.resources
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.EmailSender.resources
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.ForgotPS.resources
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Login_Email.resources
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Login.resources
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Properties.Resources.resources
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.Register.resources
+C:\Users\Parth Makadiya\Desktop\DS HACK ASSIGNMENT\Webbrowser2\Webbrowser2\obj\Debug\Webbrowser2.csproj.GenerateResource.Cache
+C:\Users\Parth Makadiya\Desktop\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\bin\Debug\Webbrowser2.exe.config
+C:\Users\Parth Makadiya\Desktop\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.exe
+C:\Users\Parth Makadiya\Desktop\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.pdb
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\bin\Debug\Webbrowser2.exe.config
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.exe
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.pdb
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\bin\Debug\Webbrowser2.exe
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\bin\Debug\Webbrowser2.pdb
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.csprojResolveAssemblyReference.cache
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.Browser.resources
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.Email_Register.resources
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.EmailSender.resources
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.ForgotPS.resources
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.Login_Email.resources
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.Login.resources
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.Properties.Resources.resources
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.Register.resources
+D:\Studies\Project\All Tricks Personal Browser\All Tricks Personal Browser\Webbrowser2\obj\Debug\Webbrowser2.csproj.GenerateResource.Cache
